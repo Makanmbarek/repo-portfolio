@@ -1,0 +1,55 @@
+body,html{
+    margin:0;
+padding:0 50px ;
+}
+header{
+    width: 100%;
+    height: 70px;
+    background-color: #2828;
+    margin: 0;
+}
+.logo {
+    color: aliceblue;
+    font-size: 256%;
+    padding: 0 100px;
+    font-weight: bold;
+    line-height: 50px;
+}
+nav ul{
+    float: right;
+    margin-right: 20px;
+    
+}
+ul li{
+    
+display:inline-block;
+margin: 0 10px;
+
+}
+li a{
+    color: white;
+    font-size: 25px;
+
+}
+img{
+    border-radius: 50%;
+    
+}
+body{
+    background-color: grey;
+
+}
+
+.resume {
+    color: aqua;
+}
+.resume li{
+    font-style: italic;
+    font-size: 50px;
+}
+h1{
+    font-style: inherit;
+}
+.about,p{
+    font-size: x-large;
+}
